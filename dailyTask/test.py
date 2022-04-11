@@ -21,8 +21,10 @@ def gettingData():
             craft_series = pd.Series(craft_list)
             message_series = pd.Series(message_list)
             number_series = pd.Series(number_list)
-            df.insert(loc=0, column='name', value=name_series)
-            df.insert(loc=1, column='craft', value=craft_series)
+            df.insert(loc=0, column='message', value=message_series)
+            df.insert(loc=1, column='name', value=name_series)
+            df.insert(loc=2, column='craft', value=craft_series)
+            df.insert(loc=3, column='number', value=number_series)
     writeToCsv(df)
 
 

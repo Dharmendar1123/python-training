@@ -1,11 +1,2 @@
-name,craft
-Zhai Zhigang,Shenzhou 13
-Wang Yaping,Shenzhou 13
-Ye Guangfu,Shenzhou 13
-Raja Chari,ISS
-Tom Marshburn,ISS
-Kayla Barron,ISS
-Matthias Maurer,ISS
-Oleg Artemyev,ISS
-Denis Matveev,ISS
-Sergey Korsakov.,ISS
+message,name,craft,number
+success,Zhai Zhigang,Shenzhou 13,10
