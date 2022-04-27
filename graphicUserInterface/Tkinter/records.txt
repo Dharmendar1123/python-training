@@ -1,0 +1,2 @@
+king, 1234567890, male, pune, delhi, 1
+ping, 9876543210, female, delhi, mumbai, 0 
